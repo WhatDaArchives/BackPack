@@ -1,0 +1,24 @@
+{
+    "name": "whatdafox/backpack",
+    "description": "Template generator for PHP Packages",
+    "keywords": [],
+    "homepage": "https://github.com/WhatDaFox/BackPack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valentin PRUGNAUD",
+            "email": "valentin@whatdafox.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": { },
+    "require-dev": {},
+    "suggest": {},
+    "autoload": {
+       "psr-4": {
+          "Package\\":"src"
+       }
+    },
+    "autoload-dev": {},
+    "extra": {}
+}

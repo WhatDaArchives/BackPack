@@ -1,2 +1,3 @@
 # BackPack
-Template for PHP packages.
+
+Basic template to create PHP packages.

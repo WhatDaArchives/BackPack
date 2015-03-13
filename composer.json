@@ -16,11 +16,7 @@
     },
     "require-dev": {},
     "suggest": {},
-    "autoload": {
-       "psr-4": {
-          "Package\\":"src"
-       }
-    },
+    "autoload": {},
     "autoload-dev": {},
     "extra": {}
 }

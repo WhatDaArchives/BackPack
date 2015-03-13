@@ -11,10 +11,10 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {
+    "require": {},
+    "require-dev": {
         "phpunit/phpunit": "~4.0"
     },
-    "require-dev": {},
     "suggest": {},
     "autoload": {},
     "autoload-dev": {},

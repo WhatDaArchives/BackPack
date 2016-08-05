@@ -1,7 +1,7 @@
 {
     "name": "whatdafox/backpack",
     "description": "Template generator for PHP Packages",
-    "keywords": [],
+    "keywords": ["package", "boilerplate", "template", "php"],
     "homepage": "https://github.com/WhatDaFox/BackPack",
     "license": "MIT",
     "authors": [
@@ -13,7 +13,7 @@
     "minimum-stability": "stable",
     "require": {},
     "require-dev": {
-        "phpunit/phpunit": "~4.0"
+        "phpunit/phpunit": "~5.0"
     },
     "suggest": {},
     "autoload": {},
